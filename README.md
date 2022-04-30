@@ -1,4 +1,4 @@
-<h1 align="center">Ceon</h1>
+<h1 align="center">Nivadoria</h1>
 
 <div align="center">
     <a href="https://discord.com/users/334063167606882305" title="Discord Account"><img src="https://lanyard.cnrad.dev/api/474973515817287691"></a>
@@ -23,5 +23,4 @@
    <a href="https://discord.com/users/474973515817287691" target"blank_">
    <img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://github.com/mu5aaztekin" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-     <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceonnn&label=Profile%20views&color=0e75b6&style=flat" alt="mu5aaztekin" /> </p> 
-<!--<a href="https://discord.gg/FQcZrN6emZ" target"blank_"><img src="https://img.shields.io/discord/schwesta?style=for-the-badge&color=7289da&label=Schwesta&logo=discord%22%3E</a>-->
+     <p align="left"> <img src="https://komarev.com/ghpvc/?username=mu5aaztekin&label=Profile%20views&color=0e75b6&style=flat" alt="mu5aaztekin" /> </p> 
