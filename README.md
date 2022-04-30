@@ -6,15 +6,15 @@
 
 ## Languages
 <div align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%ff5959"/> 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 
 </div>
 
 ## You Can Contact Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/nivadoria@kediler.xyz%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/nivadoria@kediler.xyz%20-%23323330.svg?&style=for-the-badge&logo=gmail&logoColor=%ff5959"/> 
 
 </div>
 
