@@ -1,7 +1,7 @@
 <h1 align="center">Nivadoria</h1>
 
 <div align="center">
-    <a href="https://discord.com/users/334063167606882305" title="Discord Account"><img src="https://lanyard.cnrad.dev/api/474973515817287691"></a>
+    <a href="https://discord.com/users/474973515817287691" title="Discord Account"><img src="https://lanyard.cnrad.dev/api/474973515817287691"></a>
 </div>
 
 ## Languages
